@@ -31,7 +31,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import SQRT2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two@esm/index.mjs';
+import SQRT2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two@v0.0.8-esm/index.mjs';
 ```
 
 #### SQRT2
@@ -61,7 +61,7 @@ var bool = ( SQRT2 === 1.4142135623730951 );
 <body>
 <script type="module">
 
-import SQRT2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two@esm/index.mjs';
+import SQRT2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two@v0.0.8-esm/index.mjs';
 
 console.log( SQRT2 );
 // => 1.4142135623730951
