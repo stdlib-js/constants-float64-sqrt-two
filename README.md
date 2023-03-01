@@ -144,7 +144,7 @@ Macro for the [square root][@stdlib/math/base/special/sqrt] of `2`.
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/constants/float64/ln-two`][@stdlib/constants/float64/ln-two]</span><span class="delimiter">: </span><span class="description">natural logarithm of 2.</span>
+-   <span class="package-name">[`@stdlib/constants-float64/ln-two`][@stdlib/constants/float64/ln-two]</span><span class="delimiter">: </span><span class="description">natural logarithm of 2.</span>
 
 </section>
 
