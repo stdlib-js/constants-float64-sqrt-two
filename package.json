@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/constants-float64-sqrt-two",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Square root of 2.",
   "license": "Apache-2.0",
   "author": {
@@ -36,7 +36,7 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/utils-library-manifest": "^0.1.0"
+    "@stdlib/utils-library-manifest": "^0.1.1"
   },
   "devDependencies": {
     "@stdlib/math-base-special-sqrt": "^0.1.0",
