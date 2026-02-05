@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import SQRT2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two@deno/mod.js';
+import SQRT2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two@v0.2.3-deno/mod.js';
 ```
 
 #### SQRT2
@@ -67,7 +67,7 @@ var bool = ( SQRT2 === 1.4142135623730951 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import SQRT2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two@deno/mod.js';
+import SQRT2 from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float64-sqrt-two@v0.2.3-deno/mod.js';
 
 console.log( SQRT2 );
 // => 1.4142135623730951
